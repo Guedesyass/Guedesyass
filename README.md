@@ -1,4 +1,4 @@
-### 😃 Oi, eu sou a Yasmin!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1010&color=FFFFFF&width=435&lines=Oii%2C+eu+me+chamo+Yasmin!)](https://git.io/typing-svg)
  
 <div> 
   <a href="https://www.linkedin.com/in/yasminguedes557/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -11,6 +11,7 @@
    <a href="https://github.com/Guedesyass">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guedesyass&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guedesyass&layout=compact&langs_count=6&theme=midnight-purple"/>
+   </a>
 </div>
 
 
