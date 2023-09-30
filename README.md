@@ -26,3 +26,5 @@
 
  
 <br>
+
+![snake gif](https://github.com/Guedesyass/Guedesyass/blob/output/github-contribution-grid-snake.svg)
