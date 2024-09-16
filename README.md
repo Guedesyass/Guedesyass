@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1010&color=FFFFFF&width=435&lines=Oii%2C+eu+me+chamo+Yasmin!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=D300F7&width=435&lines=Ol%C3%A1+mundo%2C+eu+sou+a+Yas!)](https://git.io/typing-svg)
  
 <div> 
   <a href="https://www.linkedin.com/in/yasminguedes557/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
